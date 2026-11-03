@@ -1,0 +1,7 @@
+{
+  "name": "true",
+  "description": "Authentic educator reviews, interactive teacher profiles, live virtual meets, personal & group chats, and head-to-head comparison gamification to identify the most effective professors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
